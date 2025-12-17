@@ -1,4 +1,4 @@
-ROM registry.access.redhat.com/ubi8/openjdk-17
+FROM registry.access.redhat.com/ubi8/openjdk-17
  
 WORKDIR /app
  
